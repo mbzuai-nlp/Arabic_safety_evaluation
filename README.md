@@ -40,7 +40,7 @@ GPT-4o outperforms GPT-4 in recall for identifying unsafe content, especially in
 
 
 ```bibtex
-@article{ashraf2024arabic,
+@article{arabicsaftydata,
   title={Arabic Dataset for LLM Safeguard Evaluation},
   author={Ashraf, Yasser and Wang, Yuxia and Gu, Bin and Nakov, Preslav and Baldwin, Timothy},
   journal={arXiv preprint arXiv:2410.17040},
