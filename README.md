@@ -38,6 +38,7 @@ The number of harmful responses of the indirect-attack questions (yellow bar) is
 GPT-4o outperforms GPT-4 in recall for identifying unsafe content, especially in Chinese and Arabic, though it has lower precision, particularly in Chinese. Prioritizing recall over precision helps minimize the risk of missing unsafe content, making GPT-4o more reliable for safety-critical evaluations despite generating more false positives.
 
 
+## Citation
 
 ```bibtex
 @article{arabicsaftydata,
